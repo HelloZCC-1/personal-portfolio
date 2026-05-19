@@ -7,7 +7,7 @@ export const profile: Profile = {
   title: "Java Backend Developer / AI Application Developer",
   location: "China / Chongqing",
   email: "Zhangchenchenone@gmail.com",
-  portfolioUrl: "",
+  portfolioUrl: "https://personal-portfolio-lac-three-70.vercel.app",
   summary:
     "我是一名信息与通信工程硕士在读学生，专注于 Java 后端开发、AI Agent 应用与智能音频识别系统的工程化落地。",
   englishSummary:
